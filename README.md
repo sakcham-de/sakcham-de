@@ -1,4 +1,12 @@
-## Hi there 👋 I am Shiva Timilsina.
+## Hi there 
+👋 I am Shiva Timilsina, Master's student at Leibniz University. 
+🌱 I am interested in computer vision, machine learning, positoning and localization.
+🌱 I am currently learning problastic and non-problastic classifers along with self supervised learning
+🔭 I am currently working on land cover classification using SWIN transformer for multimodal dataset
+💬 You can ask me anything regarding computer vision and machine learning
+📫 sktimilsina207@gmail.com
+⚡ Once I flipped a coin four times to see if probability theorem really works.
+
 
 <!--
 **sakcham-de/sakcham-de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

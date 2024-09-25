@@ -2,7 +2,7 @@
 
 - 👋 I am Shiva Timilsina, Master's student at Leibniz University.
 - 🌱 I am interested in computer vision, machine learning, positioning and localization.
-- 🌱 I am currently learning probabilistic and non-probabilistic classifiers along with self-supervised learning.
+- 🌱 I am currently learning non-probabilistic classifiers.
 - 🔭 In future I will start working on land cover classification using SWIN transformer for a multimodal dataset.
 - 💬 You can ask me anything regarding computer vision and machine learning.
 - 📫 sktimilsina207@gmail.com

@@ -4,7 +4,7 @@
 - 🌱 I am interested in computer vision, machine learning, positioning and localization.
 - 🌱 I am currently working on Orthophoto generation. 
 - 🔭 In future I will start working on land cover classification using SWIN transformer for a multimodal dataset.
-- 💬 You can ask me anything regarding computer vision and machine learning.
+- 💬 You can ask me anything regarding computer vision and Artificial Intelligence.
 - 📫 sktimilsina207@gmail.com
 
 

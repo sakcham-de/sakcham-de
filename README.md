@@ -2,8 +2,8 @@
 
 - 👋 I am Shiva Timilsina, Master's student at Leibniz University.
 - 🌱 I am interested in computer vision, machine learning, positioning and localization.
-- 🌱 I am currently working on Orthophoto generation. 
-- 🔭 In future I will start working on land cover classification using SWIN transformer for a multimodal dataset.
+- 🌱 I am currently working on orthophoto generation. 
+- 🔭 In future I will start working on 3D Displacement field calculation using SAR and Optical imagery 
 - 💬 You can ask me anything regarding computer vision and Artificial Intelligence.
 - 📫 sktimilsina207@gmail.com
 

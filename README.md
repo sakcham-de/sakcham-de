@@ -5,7 +5,7 @@
 - 🌱 I am currently working on orthophoto generation. 
 - 🔭 In future I will start working on 3D Displacement field calculation using SAR and Optical imagery 
 - 💬 You can ask me anything regarding computer vision and Artificial Intelligence.
-- 📫 sktimilsina207@gmail.com
+- 📫 s.p.timilsina@stud.uni-hannover.de ,sktimilsina207@gmail.com
 
 
 
